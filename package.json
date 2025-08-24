@@ -8,7 +8,7 @@
         "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
     },
     "keywords": [],
-    "author": "Bhargav Dankhara",
+    "author": "Amolika Dankhara",
     "license": "ISC",
     "type": "module",
     "description": "",
